@@ -1,0 +1,30 @@
+{
+  "name": "competir-ti-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+   "@prisma/client": "^7.4.1",
+   "bcrypt": "^6.0.0",
+   "cors": "^2.8.6",
+   "express": "^5.2.1",
+   "jsonwebtoken": "^9.0.3",
+   "nodemon": "^3.1.14",
+   "prisma": "^7.4.1"
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrwsxd/competir-ti-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/pedrwsxd/competir-ti-backend/issues"
+  },
+  "homepage": "https://github.com/pedrwsxd/competir-ti-backend#readme"
+}
